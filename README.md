@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h3 align="left">Hi 👋! My name is Cauã Luca</h3>
 
 ###
 
@@ -8,8 +8,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -39,7 +37,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif"  />
+<img align="left" height="150" src="https://media.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif"  />
 
 ###
 
